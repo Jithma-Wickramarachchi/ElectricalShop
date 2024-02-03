@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4ddf2f-0bb5-4125-a100-452aae39381e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/user/UserDashboardFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/user/UserDashboardForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/user/items/AddItemsFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/user/items/AddItemsForm.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginFormController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
       <recent name="C:\Users\HP\IdeaProjects\ElectricalShop\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\ElectricalShop\src\main\resources\view\user\items" />
       <recent name="C:\Users\HP\IdeaProjects\ElectricalShop\src\main\java\edu\icet\controller" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -161,7 +161,7 @@
       <updated>1704886265402</updated>
       <workItem from="1704886266617" duration="5210000" />
       <workItem from="1705561813260" duration="38000" />
-      <workItem from="1706935819190" duration="5813000" />
+      <workItem from="1706935819190" duration="7222000" />
     </task>
     <task id="LOCAL-00001" summary="Login form done">
       <option name="closed" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706941350873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="user dashboard form ui done">
+      <option name="closed" value="true" />
+      <created>1706949593151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706949593152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Login form done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login form done" />
+    <MESSAGE value="user dashboard form ui done" />
+    <option name="LAST_COMMIT_MESSAGE" value="user dashboard form ui done" />
   </component>
 </project>
