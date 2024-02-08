@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea4ddf2f-0bb5-4125-a100-452aae39381e" name="Changes" comment="add items form ui done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/ItemDto.java" afterDir="false" />
+    <list default="true" id="ea4ddf2f-0bb5-4125-a100-452aae39381e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -177,7 +177,7 @@
       <workItem from="1706957477489" duration="1560000" />
       <workItem from="1707057044026" duration="172000" />
       <workItem from="1707302461658" duration="2538000" />
-      <workItem from="1707357775127" duration="1043000" />
+      <workItem from="1707357775127" duration="1718000" />
     </task>
     <task id="LOCAL-00001" summary="Login form done">
       <option name="closed" value="true" />
@@ -203,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706950837885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Items Dto done">
+      <option name="closed" value="true" />
+      <created>1707360728731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707360728731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +243,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Login form done" />
     <MESSAGE value="add items form ui done" />
-    <option name="LAST_COMMIT_MESSAGE" value="add items form ui done" />
+    <MESSAGE value="Items Dto done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Items Dto done" />
   </component>
 </project>
