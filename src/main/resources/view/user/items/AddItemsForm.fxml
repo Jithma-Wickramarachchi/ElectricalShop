@@ -190,12 +190,12 @@
                                                 <Font size="16.0" />
                                             </font>
                                         </Label>
-                                        <JFXTextField layoutX="131.0" layoutY="15.0" prefHeight="19.0" prefWidth="85.0" />
-                                        <JFXTextField layoutX="131.0" layoutY="58.0" prefHeight="20.0" />
-                                        <JFXTextField layoutX="132.0" layoutY="145.0" prefHeight="31.0" prefWidth="116.0" />
-                                        <JFXComboBox layoutX="131.0" layoutY="103.0" prefHeight="31.0" prefWidth="148.0" />
-                                        <JFXButton layoutX="186.0" layoutY="192.0" style="-fx-background-color: #6799f0 #6799f0 #6799f0 #6799f0; -fx-text-fill: white;" text="Add" />
-                                        <JFXButton layoutX="243.0" layoutY="192.0" style="-fx-background-color: #6799f0 #6799f0 #6799f0 #6799f0; -fx-text-fill: white;" text="Cancel" />
+                                        <JFXTextField fx:id="itemCodeTxtField" layoutX="131.0" layoutY="15.0" prefHeight="19.0" prefWidth="85.0" />
+                                        <JFXTextField fx:id="productNameTxtField" layoutX="131.0" layoutY="58.0" prefHeight="20.0" />
+                                        <JFXTextField fx:id="priceTxtField" layoutX="132.0" layoutY="145.0" prefHeight="31.0" prefWidth="116.0" />
+                                        <JFXComboBox fx:id="categoryComboBox" layoutX="131.0" layoutY="103.0" prefHeight="31.0" prefWidth="148.0" />
+                                        <JFXButton fx:id="addBtn" layoutX="186.0" layoutY="192.0" onAction="#addBtnOnAction" style="-fx-background-color: #6799f0 #6799f0 #6799f0 #6799f0; -fx-text-fill: white;" text="Add" />
+                                        <JFXButton fx:id="cancelBtn" layoutX="243.0" layoutY="192.0" onAction="#cancelBtnOnAction" style="-fx-background-color: #6799f0 #6799f0 #6799f0 #6799f0; -fx-text-fill: white;" text="Cancel" />
                                         <Line endX="208.0" layoutX="116.0" layoutY="236.0" startX="-111.0" />
                                     </children>
                                 </AnchorPane>

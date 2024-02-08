@@ -19,3 +19,15 @@ V
 &src/main/java/edu/icet/repository.java,d\c\dc142b09fda96f051b27cd588557bb314b4b92cf
 Q
 !src/main/java/edu/icet/repository,f\7\f7f0152cfc335268f74eaa781ce463f2dff5b9ce
+V
+&src/main/java/edu/icet/bo/ItemsBo.java,a\4\a4a968036594a9bd1f38408b3ecd10af307dea89
+_
+/src/main/java/edu/icet/bo/impl/ItemsBoImpl.java,0\6\064cda1f0e6d61d3f518a339cdbc0b695824269a
+X
+(src/main/java/edu/icet/dao/ItemsDao.java,4\9\4946d458dc391a208d98615c5b61c993e584306f
+b
+2src/main/java/edu/icet/dao/util/HibernateUtil.java,c\e\ce64d7bfda061ec12a97e2ec47d95b665d383067
+^
+.src/main/java/edu/icet/entity/ItemsEntity.java,f\a\fa3de3066b9670a5179adac4722274afb7c845a4
+\
+,src/main/java/edu/icet/dao/ItemsDaoImpl.java,6\8\68cb17630a531caef627b8e397ebc64807756bcc
